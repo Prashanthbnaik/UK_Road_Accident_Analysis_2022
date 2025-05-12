@@ -56,6 +56,6 @@ This project analyzes UK road accident data using SQL and Power BI to identify k
 
 ---
 
-## Google Drive Link  
-[Project Files & Data Documentation](https://drive.google.com/file/d/1t8JncbuHIPWXgJGJ9S69IRIYS-Tk1nmk/view?usp=sharing)
+## Access full SQL queries, business insights, and results: 
+[View SQL Report on Google Drive](https://drive.google.com/file/d/1t8JncbuHIPWXgJGJ9S69IRIYS-Tk1nmk/view?usp=sharing)
 
