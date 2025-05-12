@@ -52,4 +52,10 @@ This project analyzes UK road accident data using SQL and Power BI to identify k
 
 ## Contact  
 [LinkedIn - www.linkedin.com/in/prashanthnaik7](https://www.linkedin.com/in/prashanthnaik7)  
-**Data Analyst | Power BI | Power Query | SQL | IBM Data Analyst Certification (In Progress)**
+**Data Analyst | Power BI | Power Query | SQL | IBM Data Analyst Certification (In Progress)**  
+
+---
+
+## Google Drive Link  
+[Project Files & Data Documentation](https://drive.google.com/file/d/1t8JncbuHIPWXgJGJ9S69IRIYS-Tk1nmk/view?usp=sharing)
+
